@@ -7,7 +7,7 @@ The files uploaded to this repository contain code to offer solutions to these p
 
 •	A requirement to style modal video image triggers. This allowed the company to style up the look and feel of the clickable images without needing to interact with the modal functionality directly. This was a particular challenge as different page templates display these images differently.
 
-•	A requirement to create various different sliders to integrate different styled sliders with WPBakery. An examples can be seen here: https://uk.exciteosa.com/how-exciteosa-can-help/. 
+•	A requirement to create various different sliders to integrate different styled sliders with WPBakery. 
 
 •	A requirement for a scroll activated sticky top navigation bar, this had to allow for changes in style and state between different scroll positions. This included a change in swatch and swapping logo images.
 
