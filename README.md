@@ -1,5 +1,5 @@
 # bespoke-functionality-for-a-multi-language-website
-Bespoke functionality for a multi-language website
+Bespoke functionality for a multi-language WordPress website
 
 The files uploaded to this repository contain code to offer solutions to these problems:
 
